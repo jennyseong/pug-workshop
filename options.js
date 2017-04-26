@@ -4,43 +4,43 @@ exports.happy = true;
 
 exports.sitemap = [
   {
-    header: 'Category A',
+    header: 'Magical Creatures',
     links: [
-      { name: 'Link A.1', url: '#' },
-      { name: 'Link A.2', url: '#' },
-      { name: 'Link A.3', url: '#' },
-      { name: 'Link A.4', url: '#' },
-      { name: 'Link A.5', url: '#' }
+      { name: 'Unicorns', url: '#' },
+      { name: 'Turtleducks', url: '#' },
+      { name: 'Dragons', url: '#' },
+      { name: 'Nine-Tail Fox', url: '#' },
+      { name: 'Pusheenicorn', url: 'http://pusheenicorn.me/' }
     ],
   },
   {
-    header: 'Category B',
+    header: 'Cute Animals',
     links: [
-      { name: 'Link B.1', url: '#' },
-      { name: 'Link B.2', url: '#' },
-      { name: 'Link B.3', url: '#' },
-      { name: 'Link B.4', url: '#' },
-      { name: 'Link B.5', url: '#' }
+      { name: 'Pugs', url: '#' },
+      { name: 'Red Pandas', url: '#' },
+      { name: 'Pusheen', url: '#' },
+      { name: 'Baby Seals', url: '#' },
+      { name: 'Otters', url: '#' }
     ],
   },
   {
-    header: 'Category C',
+    header: 'People on My Table',
     links: [
-      { name: 'Link C.1', url: '#' },
-      { name: 'Link C.2', url: '#' },
-      { name: 'Link C.3', url: '#' },
-      { name: 'Link C.4', url: '#' },
-      { name: 'Link C.5', url: '#' }
+      { name: 'Jenny', url: '#' },
+      { name: 'Byrne', url: '#' },
+      { name: 'Armin', url: '#' },
+      { name: 'Nick', url: '#' },
+      { name: 'Ellis', url: '#' }
     ],
   },
   {
-    header: 'Category D',
+    header: 'My Favourite Things',
     links: [
-      { name: 'Link D.1', url: '#' },
-      { name: 'Link D.2', url: '#' },
-      { name: 'Link D.3', url: '#' },
-      { name: 'Link D.4', url: '#' },
-      { name: 'Link D.5', url: '#' }
+      { name: 'Ice Cream', url: '#' },
+      { name: 'Games', url: '#' },
+      { name: 'Cute Animal Videos', url: '#' },
+      { name: 'Family <3', url: '#' },
+      { name: 'Pretty art and designs', url: '#' }
     ],
   },
 ];
